@@ -6,8 +6,8 @@
 
 <script>
   export default {
-    name: 'aws-athena-history-cli-wrapper'
-  }
+    name: 'aws-athena-history-cli-wrapper',
+  };
 </script>
 
 <style>
